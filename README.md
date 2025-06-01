@@ -50,11 +50,11 @@ python frontalfaceRecog.py
 ## 🧩 Dependencies
 These are listed in requirements.txt, but key ones include:
 
-opencv-python
+- opencv-python
 
-numpy
+- numpy
 
-scikit-learn
+- scikit-learn
 
 ## 📦 Notes
 - The data/ folder stores face encodings (*.npy files).
